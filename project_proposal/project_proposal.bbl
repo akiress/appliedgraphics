@@ -1,0 +1,35 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{DHF{\etalchar{+}}11}
+
+\bibitem[BH12]{Bangalore:2012:TAD:2328888.2328896}
+A.~Bangalore and D.~H. House.
+\newblock A technique for art direction of physically based fire simulation.
+\newblock In {\em Proceedings of the Eighth Annual Symposium on Computational
+  Aesthetics in Graphics, Visualization, and Imaging}, CAe '12, pages 45--54,
+  Aire-la-Ville, Switzerland, Switzerland, 2012. Eurographics Association.
+
+\bibitem[DHF{\etalchar{+}}11]{Dubey:2011:PPB:2037636.2037646}
+Pradeep Dubey, Pat Hanrahan, Ronald Fedkiw, Michael Lentine, and Craig
+  Schroeder.
+\newblock Physbam: Physically based simulation.
+\newblock In {\em ACM SIGGRAPH 2011 Courses}, SIGGRAPH '11, pages 10:1--10:22,
+  New York, NY, USA, 2011. ACM.
+
+\bibitem[HSF07]{Hong:2007:WFC:1276377.1276436}
+Jeong-Mo Hong, Tamar Shinar, and Ronald Fedkiw.
+\newblock Wrinkled flames and cellular patterns.
+\newblock {\em ACM Trans. Graph.}, 26(3), July 2007.
+
+\bibitem[Rob10]{Robertson:2010:TE}
+Barbara Robertson.
+\newblock Training exercise.
+\newblock {\em Computer Graphics World}, 33(4), April 2010.
+
+\bibitem[ZCM11]{Zhang:2011:GFS:2019406.2019431}
+Yubo Zhang, Carlos~D. Correa, and Kwan-Liu Ma.
+\newblock Graph-based fire synthesis.
+\newblock In {\em Proceedings of the 2011 ACM SIGGRAPH/Eurographics Symposium
+  on Computer Animation}, SCA '11, pages 187--194, New York, NY, USA, 2011.
+  ACM.
+
+\end{thebibliography}
